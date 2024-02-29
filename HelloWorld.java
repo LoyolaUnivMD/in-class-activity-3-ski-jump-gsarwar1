@@ -1,11 +1,11 @@
-# Programmers:Gabe.S
-# Course:  CS 212 
-# Due Date: 
-# Lab Assignment: in class assignment 
-# Problem Statement:  
-# Data In:
-# Data Out:  
-# Credits: 
+//Programmers:Gabe.S
+//Course:  CS 212 
+//Due Date: 
+//Lab Assignment: in class assignment 
+//Problem Statement:  make a program to calculate the distance traveled based on speed and determine how many points they’d receive if they went that distance. 
+//Data In: Hill type and speed 
+//Data Out:  Distance and points earned 
+// Credits: 
 
 import java.util.Scanner;
 
